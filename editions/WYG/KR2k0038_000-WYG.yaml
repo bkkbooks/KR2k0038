@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0038/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定滿洲源流考
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:29.449336'
+  source:
+    repository: kanripo
+    path: KR2k0038/KR2k0038_000.txt
+hash: sha256:759fff14a5f805a0cb56775fcc39e9b38f0708dc81e790f67f760195ea537337

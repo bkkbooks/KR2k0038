@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0038/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定滿洲源流考
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:29.449336'
+  source:
+    repository: kanripo
+    path: KR2k0038/KR2k0038_000.txt
+hash: sha256:9a701b94bfa992546dc6d7ce5081065791462f8d86135dbb651df3bb8448fde1
